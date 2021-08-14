@@ -1,0 +1,3 @@
+String s1="Capgemini";
+log.info(s1);
+System.out.println(s1);
