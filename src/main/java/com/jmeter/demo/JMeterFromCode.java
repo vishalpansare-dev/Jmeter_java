@@ -1,4 +1,4 @@
-package com.avenger.demo;
+package com.jmeter.demo;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.jmeter.config.*;
